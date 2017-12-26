@@ -1,6 +1,6 @@
 {
   "name": "number-accuracy",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "description": "Perform addition, subtraction, multiplication and division operations precisely using javascript",
   "main": "build/index.js",
   "types": "src/index.ts",
@@ -46,5 +46,5 @@
     "tslint": "^5.8.0",
     "typescript": "^2.6.2"
   },
-  "license": "MIT"
+  "license": "GCY"
 }

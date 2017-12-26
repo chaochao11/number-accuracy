@@ -1,4 +1,4 @@
-# number-accuracy [![npm version](https://badge.fury.io/js/number-precision.svg)](http://badge.fury.io/js/number-precision) [![Build Status](https://travis-ci.org/nefe/number-precision.svg)](https://travis-ci.org/nefe/number-precision) [![codecov](https://codecov.io/gh/nefe/number-precision/branch/master/graph/badge.svg)](https://codecov.io/gh/nefe/number-precision)
+# number-accuracy [![npm version](https://badge.fury.io/js/number-precision.svg)](https://www.npmjs.com/package/number-accuracy)
 
 Perform addition, subtraction, multiplication and division operations precisely using javascript
 
