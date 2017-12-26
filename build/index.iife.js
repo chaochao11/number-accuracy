@@ -1,4 +1,4 @@
-var NP = (function (exports) {
+var NA = (function (exports) {
 'use strict';
 
 /**

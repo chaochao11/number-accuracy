@@ -4,11 +4,11 @@ export default {
   input: './src/index.ts',
   output: [{
     format: 'iife',
-    name: 'NP',
+    name: 'NA',
     dest: './build/index.iife.js',
   }, {
     format: 'umd',
-    name: 'NP',
+    name: 'NA',
     dest: './build/index.umd.js',
   }, {
     format: 'cjs',

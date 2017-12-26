@@ -15,9 +15,9 @@
     "url": "https://github.com/chaochao11/number-accuracy.git"
   },
   "bugs": {
-    "url": "https://github.com/nefe/number-precision/issues"
+    "url": "https://github.com/chaochao11/number-accuracy/issues"
   },
-  "homepage": "https://github.com/nefe/number-precision",
+  "homepage": "https://github.com/chaochao11/number-accuracy",
   "scripts": {
     "build": "rollup -c",
     "watch": "rollup -cw",
